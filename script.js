@@ -27,12 +27,3 @@ for (var i = 0; i < circles.length; i++) {
     }}
   	)(i))
 }
-
-
-const creation = (a , b) => {
-	
-}
-
-const deletion = (b) => {
-	
-}
